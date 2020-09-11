@@ -9,5 +9,7 @@
 ### reference
 
 1.https://github.com/rosinality/vq-vae-2-pytorch
+
 2.https://github.com/rosinality/style-based-gan-pytorch
+
 3.https://github.com/weiaicunzai/pytorch-cifar100
